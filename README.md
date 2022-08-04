@@ -38,10 +38,10 @@ Codes:
 
 ### Structure
 
-`/routes/api.php` - list of routes
-`/App/Http/Controllers/VisitController.php` - Controller of visits
-`/App/Http/Requests/VisitorRequest.php` - Request validator
-`/App/Services/Storage` - Storage service
-`/App/Services/Visits` - Visit service
-`/App/Providers/AppServiceProvider.php` - DI provider
+- `/routes/api.php` - list of routes
+- `/App/Http/Controllers/VisitController.php` - Controller of visits
+- `/App/Http/Requests/VisitorRequest.php` - Request validator
+- `/App/Services/Storage` - Storage service
+- `/App/Services/Visits` - Visit service
+- `/App/Providers/AppServiceProvider.php` - DI provider
 
