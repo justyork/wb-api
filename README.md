@@ -45,3 +45,7 @@ Codes:
 - `/App/Services/Visits` - Visit service
 - `/App/Providers/AppServiceProvider.php` - DI provider
 
+### Improvements
+- Rate limiter by ip (less damage from DDOS)
+- Operation locks
+- Redis cluster
