@@ -1,0 +1,9 @@
+### Send POST request with json body
+POST http://localhost/api/visit
+Content-Type: application/json
+
+{
+    "code": "dec"
+}
+
+
